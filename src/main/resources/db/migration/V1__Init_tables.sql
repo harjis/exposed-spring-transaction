@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS posts(
+    id UUID PRIMARY KEY,
+    name VARCHAR(255)
+);
